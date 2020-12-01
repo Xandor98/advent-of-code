@@ -1,3 +1,5 @@
+![.NET Core](https://github.com/Xandor98/advent-of-code/workflows/.NET%20Core/badge.svg)
+
 # Advent of Code solution
 
 ### Website
