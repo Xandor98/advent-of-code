@@ -1,4 +1,4 @@
-![.NET Core](https://github.com/Xandor98/advent-of-code/workflows/.NET%20Core/badge.svg)
+![.NET Core](https://github.com/Xandor98/advent-of-code/workflows/.NET%20Core/badge.svg) ![.NET Core Test](https://github.com/Xandor98/advent-of-code/workflows/.NET%20Core%20Test/badge.svg)
 
 # Advent of Code solution
 
